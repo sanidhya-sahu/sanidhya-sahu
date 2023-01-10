@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanidhya-sahu
-- 👀 I’m interested in ... ........dont know !!!
-- 🌱 I’m currently learning ... okay am beginner
-- 📫 How to reach me ... why.. oakyy insta : @sanidhya_914
+- 👀 I’m interested in web dev, app dev
+- 🌱 I’m currently learning core web dev
+- 📫 let's talk on insta : @sanidhya_914
 -Pheww this interview was tough .... 
 <!---
 sanidhya-sahu/sanidhya-sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
