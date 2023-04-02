@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sanidhya-sahu
-- 👀 I’m interested in web dev, app dev
-- 🌱 I’m currently learning core web dev
+- 🌱 I’m currently learning everything
 - 📫 let's talk on insta : @sanidhya_914
 
 <!---
