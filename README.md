@@ -19,4 +19,4 @@ Hi I am Sanidhya,<br>I am currently working on a companies accounting software.<
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanidhya-sahu&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sanidhya-sahu&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
