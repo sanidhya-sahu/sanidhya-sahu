@@ -16,7 +16,7 @@ Hi I am Sanidhya,<br>I am currently working on a companies accounting software.<
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="200px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanidhya-sahu&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
