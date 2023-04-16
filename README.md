@@ -21,4 +21,5 @@ Hi I am Sanidhya,<br>I am currently working on a companies accounting software.<
 ---
 [![](https://visitcount.itsvg.in/api?id=sanidhya-sahu&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://gpvc.arturio.dev/sanidhya-sahu)
+
