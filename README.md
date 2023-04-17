@@ -1,4 +1,4 @@
-## 💫 About Me:
+## ✌️ About Me:
 Hi I am Sanidhya,<br>I am currently working on a companies accounting software.<br>I like Web Development.<br>I am currently learning React Native.<br>I want guidance on skills upscalling.
 
 
