@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 </div>
 
 ###
@@ -51,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanidhya-sahu/sanidhya-sahu/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanidhya-sahu/sanidhya-sahu/output/snake.svg" alt="Snake animation" />
 
 ###
 
