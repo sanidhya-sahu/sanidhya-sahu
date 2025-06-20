@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/sanidhya-sahu/sanidhya-sahu/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/sanidhya-sahu/sanidhya-sahu/output/snake.svg" alt="Snake animation" />
 
 ###
 
