@@ -86,11 +86,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanidhya-sahu/sanidhya-sahu/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/BhaveshBhakta/BhaveshBhakta/blob/output/github-snake-dark.svg)
 
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sanidhya-sahu.sanidhya-sahu&left_color=black&right_color=darkslategrey"  />
 
 ###
-![snake gif](https://github.com/BhaveshBhakta/BhaveshBhakta/blob/output/github-snake-dark.svg)
+
