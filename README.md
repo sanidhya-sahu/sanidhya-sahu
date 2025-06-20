@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/BhaveshBhakta/BhaveshBhakta/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/sanidhya-sahu/sanidhya-sahu/blob/output/github-snake-dark.svg)
 
 ###
 
